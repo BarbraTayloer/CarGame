@@ -12,456 +12,2774 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-06-28T21:18:38.507+03:00
-  initializedAtString: 2018-06-28T21:16:40.395+03:00
+  lastUpdatedAtString: 2018-06-30T18:35:16.458+02:00
+  initializedAtString: 2018-06-30T11:05:56.767+02:00
   entries:
+  - path: .gitignore
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\.gitignore
+    projectPath: .gitignore
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Scenes.meta
+    projectPath: Assets\Scenes.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\ChooseLevel.unity
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Scenes\ChooseLevel.unity
+    projectPath: Assets\Scenes\ChooseLevel.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\ChooseLevel.unity.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Scenes\ChooseLevel.unity.meta
+    projectPath: Assets\Scenes\ChooseLevel.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\HighScores.unity
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Scenes\HighScores.unity
+    projectPath: Assets\Scenes\HighScores.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\HighScores.unity.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Scenes\HighScores.unity.meta
+    projectPath: Assets\Scenes\HighScores.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Level0.unity
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Scenes\Level0.unity
+    projectPath: Assets\Scenes\Level0.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Level0.unity.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Scenes\Level0.unity.meta
+    projectPath: Assets\Scenes\Level0.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\menu.unity
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Scenes\menu.unity
+    projectPath: Assets\Scenes\menu.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\menu.unity.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Scenes\menu.unity.meta
+    projectPath: Assets\Scenes\menu.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Scripts.meta
+    projectPath: Assets\Scripts.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\ButtonManager.cs
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Scripts\ButtonManager.cs
+    projectPath: Assets\Scripts\ButtonManager.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\ButtonManager.cs.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Scripts\ButtonManager.cs.meta
+    projectPath: Assets\Scripts\ButtonManager.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Timer.cs
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Scripts\Timer.cs
+    projectPath: Assets\Scripts\Timer.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Timer.cs.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Scripts\Timer.cs.meta
+    projectPath: Assets\Scripts\Timer.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Stuff.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Stuff.meta
+    projectPath: Assets\Stuff.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Stuff\exit.png
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Stuff\exit.png
+    projectPath: Assets\Stuff\exit.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Stuff\exit.png.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Stuff\exit.png.meta
+    projectPath: Assets\Stuff\exit.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Stuff\menu bg placeholder.png
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Stuff\menu bg
+      placeholder.png
+    projectPath: Assets\Stuff\menu bg placeholder.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Stuff\menu bg placeholder.png.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Assets\Stuff\menu bg
+      placeholder.png.meta
+    projectPath: Assets\Stuff\menu bg placeholder.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\AssetImportState
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\AssetImportState
+    projectPath: Library\AssetImportState
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\CurrentLayout.dwlt
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\branches.yaml
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     status: 3
     staged: 0
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\.icon.png
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\.icon.png
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\.icon.png
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000001000000020000000
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\00\00000000000000001000000020000000
+    projectPath: Library\metadata\00\00000000000000001000000020000000
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\asset
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\asset
+    staged: 0
+  - path: Library\metadata\00\00000000000000003000000000000000
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\00\00000000000000003000000000000000
+    projectPath: Library\metadata\00\00000000000000003000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000004000000000000000
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\00\00000000000000004000000000000000
+    projectPath: Library\metadata\00\00000000000000004000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000004100000000000000
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\00\00000000000000004100000000000000
+    projectPath: Library\metadata\00\00000000000000004100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000005000000000000000
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\00\00000000000000005000000000000000
+    projectPath: Library\metadata\00\00000000000000005000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000005100000000000000
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\00\00000000000000005100000000000000
+    projectPath: Library\metadata\00\00000000000000005100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000006000000000000000
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\00\00000000000000006000000000000000
+    projectPath: Library\metadata\00\00000000000000006000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000006100000000000000
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\00\00000000000000006100000000000000
+    projectPath: Library\metadata\00\00000000000000006100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000008000000000000000
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\00\00000000000000008000000000000000
+    projectPath: Library\metadata\00\00000000000000008000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000009000000000000000
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\00\00000000000000009000000000000000
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000a100000000000000
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\00\0000000000000000a100000000000000
+    projectPath: Library\metadata\00\0000000000000000a100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000b000000000000000
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\00\0000000000000000b000000000000000
+    projectPath: Library\metadata\00\0000000000000000b000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000c000000000000000
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\00\0000000000000000c000000000000000
+    projectPath: Library\metadata\00\0000000000000000c000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\005c4d80949154e5c87348bb9f5d15eb
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\00\005c4d80949154e5c87348bb9f5d15eb
+    projectPath: Library\metadata\00\005c4d80949154e5c87348bb9f5d15eb
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+    staged: 0
+  - path: Library\metadata\01\01cd264c206ae482393dc9d04b26eca0
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\01\01cd264c206ae482393dc9d04b26eca0
+    projectPath: Library\metadata\01\01cd264c206ae482393dc9d04b26eca0
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\pathname
+    staged: 0
+  - path: Library\metadata\01\01e02995805eb483690380a911a657e2
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\01\01e02995805eb483690380a911a657e2
+    projectPath: Library\metadata\01\01e02995805eb483690380a911a657e2
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\asset
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\asset
+    staged: 0
+  - path: Library\metadata\03\03ffb9844f8d40e8a2f59dd2aff561eb
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\03\03ffb9844f8d40e8a2f59dd2aff561eb
+    projectPath: Library\metadata\03\03ffb9844f8d40e8a2f59dd2aff561eb
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\asset.meta
+    staged: 0
+  - path: Library\metadata\05\05f7f519769978b79b31d063a7fc6fa1
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\05\05f7f519769978b79b31d063a7fc6fa1
+    projectPath: Library\metadata\05\05f7f519769978b79b31d063a7fc6fa1
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\pathname
+    staged: 0
+  - path: Library\metadata\06\0621b4aab2236437592f1f292cb81d20
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\06\0621b4aab2236437592f1f292cb81d20
+    projectPath: Library\metadata\06\0621b4aab2236437592f1f292cb81d20
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\asset
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\asset
+    staged: 0
+  - path: Library\metadata\06\063774d2ff01c43719d93b2d95e298b3
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\06\063774d2ff01c43719d93b2d95e298b3
+    projectPath: Library\metadata\06\063774d2ff01c43719d93b2d95e298b3
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\asset.meta
+    staged: 0
+  - path: Library\metadata\06\063b1587caa4a47f396741f4e69d108c
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\06\063b1587caa4a47f396741f4e69d108c
+    projectPath: Library\metadata\06\063b1587caa4a47f396741f4e69d108c
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\pathname
+    staged: 0
+  - path: Library\metadata\06\06b575597b644fe8ba88495149d01b66
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\06\06b575597b644fe8ba88495149d01b66
+    projectPath: Library\metadata\06\06b575597b644fe8ba88495149d01b66
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\asset
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\asset
+    staged: 0
+  - path: Library\metadata\06\06f8e3404d534cab82fe852ff33dad77
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\06\06f8e3404d534cab82fe852ff33dad77
+    projectPath: Library\metadata\06\06f8e3404d534cab82fe852ff33dad77
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+    staged: 0
+  - path: Library\metadata\0a\0a1161a2ab6569948a0aa7899197218c
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\0a\0a1161a2ab6569948a0aa7899197218c
+    projectPath: Library\metadata\0a\0a1161a2ab6569948a0aa7899197218c
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\pathname
+    staged: 0
+  - path: Library\metadata\0a\0a2c7bcbdfe0a438999cb0653789cdf4
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\0a\0a2c7bcbdfe0a438999cb0653789cdf4
+    projectPath: Library\metadata\0a\0a2c7bcbdfe0a438999cb0653789cdf4
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\18e096a98c2704c40a818dd1214cd179\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\18e096a98c2704c40a818dd1214cd179\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\18e096a98c2704c40a818dd1214cd179\asset.meta
+    staged: 0
+  - path: Library\metadata\0a\0a822dba3d5c4c85b150866e5442a5ec
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\0a\0a822dba3d5c4c85b150866e5442a5ec
+    projectPath: Library\metadata\0a\0a822dba3d5c4c85b150866e5442a5ec
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\18e096a98c2704c40a818dd1214cd179\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\18e096a98c2704c40a818dd1214cd179\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\18e096a98c2704c40a818dd1214cd179\pathname
+    staged: 0
+  - path: Library\metadata\0c\0cec1463d32984cf70b5db50b1e1fc57
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\0c\0cec1463d32984cf70b5db50b1e1fc57
+    projectPath: Library\metadata\0c\0cec1463d32984cf70b5db50b1e1fc57
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\asset
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\asset
+    staged: 0
+  - path: Library\metadata\0e\0e372f1bbea04aa9bd68055d4105bd84
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\0e\0e372f1bbea04aa9bd68055d4105bd84
+    projectPath: Library\metadata\0e\0e372f1bbea04aa9bd68055d4105bd84
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+    staged: 0
+  - path: Library\metadata\0e\0edd86f97b0648f685604a5582cff608
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\0e\0edd86f97b0648f685604a5582cff608
+    projectPath: Library\metadata\0e\0edd86f97b0648f685604a5582cff608
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\pathname
+    staged: 0
+  - path: Library\metadata\10\10145f279f90346bbb61712ff585828b
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\10\10145f279f90346bbb61712ff585828b
+    projectPath: Library\metadata\10\10145f279f90346bbb61712ff585828b
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\asset
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\asset
+    staged: 0
+  - path: Library\metadata\10\1067213df0c64b319bc81e73be809b1a
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\10\1067213df0c64b319bc81e73be809b1a
+    projectPath: Library\metadata\10\1067213df0c64b319bc81e73be809b1a
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\asset.meta
+    staged: 0
+  - path: Library\metadata\10\10a526294333b45d0916e3da00f0e1fe
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\10\10a526294333b45d0916e3da00f0e1fe
+    projectPath: Library\metadata\10\10a526294333b45d0916e3da00f0e1fe
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\pathname
+    staged: 0
+  - path: Library\metadata\10\10bf81265ad87424d946598c575f45a0
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\10\10bf81265ad87424d946598c575f45a0
+    projectPath: Library\metadata\10\10bf81265ad87424d946598c575f45a0
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\asset
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\asset
+    staged: 0
+  - path: Library\metadata\11\119767b84bf172b44a2fa7b8835ff175
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\11\119767b84bf172b44a2fa7b8835ff175
+    projectPath: Library\metadata\11\119767b84bf172b44a2fa7b8835ff175
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+    staged: 0
+  - path: Library\metadata\13\1322fd896bbb15bb6e335591b766ae62
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\13\1322fd896bbb15bb6e335591b766ae62
+    projectPath: Library\metadata\13\1322fd896bbb15bb6e335591b766ae62
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\pathname
+    staged: 0
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\15\15a615c733aa240909fe0b28b0d5143c
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\15\15a615c733aa240909fe0b28b0d5143c
+    projectPath: Library\metadata\15\15a615c733aa240909fe0b28b0d5143c
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+    staged: 0
+  - path: Library\metadata\15\15be9c691b85a41a39c18beeff87e21b
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\15\15be9c691b85a41a39c18beeff87e21b
+    projectPath: Library\metadata\15\15be9c691b85a41a39c18beeff87e21b
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+    staged: 0
+  - path: Library\metadata\15\15bf9c691b85b41a39c18bee2f87e21b
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\15\15bf9c691b85b41a39c18bee2f87e21b
+    projectPath: Library\metadata\15\15bf9c691b85b41a39c18bee2f87e21b
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+    staged: 0
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\17\17dfdb089f10445c78bcc4f5ec718217
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\17\17dfdb089f10445c78bcc4f5ec718217
+    projectPath: Library\metadata\17\17dfdb089f10445c78bcc4f5ec718217
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\asset
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\asset
+    staged: 0
+  - path: Library\metadata\18\18a4fadfef534684d5af39ca8dc48fe9
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\18\18a4fadfef534684d5af39ca8dc48fe9
+    projectPath: Library\metadata\18\18a4fadfef534684d5af39ca8dc48fe9
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\asset.meta
+    staged: 0
+  - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\19\19c0e50c9d9a50e4ea55fa6378ef23de
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\19\19c0e50c9d9a50e4ea55fa6378ef23de
+    projectPath: Library\metadata\19\19c0e50c9d9a50e4ea55fa6378ef23de
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\pathname
+    staged: 0
+  - path: Library\metadata\1a\1a4266815e998967becf686f9c71f0a6
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\1a\1a4266815e998967becf686f9c71f0a6
+    projectPath: Library\metadata\1a\1a4266815e998967becf686f9c71f0a6
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\asset
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\asset
+    staged: 0
+  - path: Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5
+    projectPath: Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+    staged: 0
+  - path: Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
+    projectPath: Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\pathname
+    staged: 0
+  - path: Library\metadata\1b\1be25132fa5e54b0ea23a23f7ceab7cc
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\1b\1be25132fa5e54b0ea23a23f7ceab7cc
+    projectPath: Library\metadata\1b\1be25132fa5e54b0ea23a23f7ceab7cc
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\720712be6e31c444f88f57bb85bf5fa5\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\720712be6e31c444f88f57bb85bf5fa5\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+    staged: 0
+  - path: Library\metadata\1c\1cf679539c5e5499e8856aaacf1fc32f
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\1c\1cf679539c5e5499e8856aaacf1fc32f
+    projectPath: Library\metadata\1c\1cf679539c5e5499e8856aaacf1fc32f
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\720712be6e31c444f88f57bb85bf5fa5\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\720712be6e31c444f88f57bb85bf5fa5\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\720712be6e31c444f88f57bb85bf5fa5\pathname
+    staged: 0
+  - path: Library\metadata\1f\1fa8104dbabdaae4786dae20cbcd185d
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\1f\1fa8104dbabdaae4786dae20cbcd185d
+    projectPath: Library\metadata\1f\1fa8104dbabdaae4786dae20cbcd185d
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\asset
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\asset
+    staged: 0
+  - path: Library\metadata\20\201535de6aef94e958deca2f11ad8244
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\20\201535de6aef94e958deca2f11ad8244
+    projectPath: Library\metadata\20\201535de6aef94e958deca2f11ad8244
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\asset.meta
+    staged: 0
+  - path: Library\metadata\20\2062721d247ef4a3d9a3ccc298c235ed
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\20\2062721d247ef4a3d9a3ccc298c235ed
+    projectPath: Library\metadata\20\2062721d247ef4a3d9a3ccc298c235ed
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\pathname
+    staged: 0
+  - path: Library\metadata\20\209b05d4579b7399272a97e3096fd5e6
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\20\209b05d4579b7399272a97e3096fd5e6
+    projectPath: Library\metadata\20\209b05d4579b7399272a97e3096fd5e6
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\asset
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\asset
+    staged: 0
+  - path: Library\metadata\20\20b0da461eb169e478d55874ae7ad758
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\20\20b0da461eb169e478d55874ae7ad758
+    projectPath: Library\metadata\20\20b0da461eb169e478d55874ae7ad758
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+    staged: 0
+  - path: Library\metadata\22\220224b43fc464c28bc0e8de8f54a432
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\22\220224b43fc464c28bc0e8de8f54a432
+    projectPath: Library\metadata\22\220224b43fc464c28bc0e8de8f54a432
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\pathname
+    staged: 0
+  - path: Library\metadata\22\224ede67b4f3a4109bfec4d5cb161b05
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\22\224ede67b4f3a4109bfec4d5cb161b05
+    projectPath: Library\metadata\22\224ede67b4f3a4109bfec4d5cb161b05
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+    staged: 0
+  - path: Library\metadata\23\23805a7a1623842b0b7b21158066bd90
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\23\23805a7a1623842b0b7b21158066bd90
+    projectPath: Library\metadata\23\23805a7a1623842b0b7b21158066bd90
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\99b48d4d4f6a66340ab06bd487d70a45\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\99b48d4d4f6a66340ab06bd487d70a45\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\99b48d4d4f6a66340ab06bd487d70a45\pathname
+    staged: 0
+  - path: Library\metadata\24\243b0d4fb4f76c77474069933a6cc2f7
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\24\243b0d4fb4f76c77474069933a6cc2f7
+    projectPath: Library\metadata\24\243b0d4fb4f76c77474069933a6cc2f7
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a0ded7adcc817ce489fec07977f16d13\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a0ded7adcc817ce489fec07977f16d13\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a0ded7adcc817ce489fec07977f16d13\asset.meta
+    staged: 0
+  - path: Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
+    projectPath: Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a0ded7adcc817ce489fec07977f16d13\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a0ded7adcc817ce489fec07977f16d13\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a0ded7adcc817ce489fec07977f16d13\pathname
+    staged: 0
+  - path: Library\metadata\26\26a4f29db434fd79025c91f6126382cc
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\26\26a4f29db434fd79025c91f6126382cc
+    projectPath: Library\metadata\26\26a4f29db434fd79025c91f6126382cc
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\asset
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\asset
+    staged: 0
+  - path: Library\metadata\26\26cd00efc11487c4b8a464a25b6b68ac
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\26\26cd00efc11487c4b8a464a25b6b68ac
+    projectPath: Library\metadata\26\26cd00efc11487c4b8a464a25b6b68ac
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\asset.meta
+    staged: 0
+  - path: Library\metadata\26\26fe4b2e7b3b845a6b5668ad693669af
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\26\26fe4b2e7b3b845a6b5668ad693669af
+    projectPath: Library\metadata\26\26fe4b2e7b3b845a6b5668ad693669af
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\pathname
+    staged: 0
+  - path: Library\metadata\27\273bbb7523d694241961af2f07af6a29
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\27\273bbb7523d694241961af2f07af6a29
+    projectPath: Library\metadata\27\273bbb7523d694241961af2f07af6a29
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\asset
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\asset
+    staged: 0
+  - path: Library\metadata\27\2752d2225fa7a8843a7656e822be72c0
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\27\2752d2225fa7a8843a7656e822be72c0
+    projectPath: Library\metadata\27\2752d2225fa7a8843a7656e822be72c0
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\asset.meta
+    staged: 0
+  - path: Library\metadata\27\278ef3374da383a47bae8b80b11bc184
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\27\278ef3374da383a47bae8b80b11bc184
+    projectPath: Library\metadata\27\278ef3374da383a47bae8b80b11bc184
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\pathname
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\pathname
+    staged: 0
+  - path: Library\metadata\27\27ce5eddbf1a34ea3a8182b5871c2806
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\27\27ce5eddbf1a34ea3a8182b5871c2806
+    projectPath: Library\metadata\27\27ce5eddbf1a34ea3a8182b5871c2806
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c743ae24ee231884887054d20ccdd0ae\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c743ae24ee231884887054d20ccdd0ae\asset
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c743ae24ee231884887054d20ccdd0ae\asset
+    staged: 0
+  - path: Library\metadata\28\2832cb330f389d64489b782370888ba2
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\28\2832cb330f389d64489b782370888ba2
+    projectPath: Library\metadata\28\2832cb330f389d64489b782370888ba2
     originalPath: 
     status: 5
-    staged: 1
-  - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c743ae24ee231884887054d20ccdd0ae\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c743ae24ee231884887054d20ccdd0ae\asset.meta
-    projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c743ae24ee231884887054d20ccdd0ae\asset.meta
+    staged: 0
+  - path: Library\metadata\29\29c0cee3ab184b708f4a33663c974d92
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\29\29c0cee3ab184b708f4a33663c974d92
+    projectPath: Library\metadata\29\29c0cee3ab184b708f4a33663c974d92
     originalPath: 
     status: 5
-    staged: 1
+    staged: 0
+  - path: Library\metadata\2a\2a3f4f8c4e2df41108f55825c24ff694
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\2a\2a3f4f8c4e2df41108f55825c24ff694
+    projectPath: Library\metadata\2a\2a3f4f8c4e2df41108f55825c24ff694
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\2a\2a799ca57f59f7f4ea1d834d5f07b868
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\2a\2a799ca57f59f7f4ea1d834d5f07b868
+    projectPath: Library\metadata\2a\2a799ca57f59f7f4ea1d834d5f07b868
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\2a\2a8d9023fcd9bc221cfeaeec965aa126
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\2a\2a8d9023fcd9bc221cfeaeec965aa126
+    projectPath: Library\metadata\2a\2a8d9023fcd9bc221cfeaeec965aa126
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\2b\2b3002c18d29d41b0898ab58bc6ee10d
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\2b\2b3002c18d29d41b0898ab58bc6ee10d
+    projectPath: Library\metadata\2b\2b3002c18d29d41b0898ab58bc6ee10d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\2c\2c814623cb42764d304be0c5ddd03ceb
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\2c\2c814623cb42764d304be0c5ddd03ceb
+    projectPath: Library\metadata\2c\2c814623cb42764d304be0c5ddd03ceb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\2d\2d4d46c70fdd242668a56e99799e8540
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\2d\2d4d46c70fdd242668a56e99799e8540
+    projectPath: Library\metadata\2d\2d4d46c70fdd242668a56e99799e8540
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\2d\2d77b2d58287d46a6a61f12c861bfc2f
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\2d\2d77b2d58287d46a6a61f12c861bfc2f
+    projectPath: Library\metadata\2d\2d77b2d58287d46a6a61f12c861bfc2f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\2e\2e4279f9920186642aa86e1f3b0e343e
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\2e\2e4279f9920186642aa86e1f3b0e343e
+    projectPath: Library\metadata\2e\2e4279f9920186642aa86e1f3b0e343e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\2e\2e56d2232b74eb541b5338671b40ee6c
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\2e\2e56d2232b74eb541b5338671b40ee6c
+    projectPath: Library\metadata\2e\2e56d2232b74eb541b5338671b40ee6c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\2f\2f1849b9179b464381598f68663790d3
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\2f\2f1849b9179b464381598f68663790d3
+    projectPath: Library\metadata\2f\2f1849b9179b464381598f68663790d3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\2f\2f1d33abb004b44cb90ec83a2bfe872e
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\2f\2f1d33abb004b44cb90ec83a2bfe872e
+    projectPath: Library\metadata\2f\2f1d33abb004b44cb90ec83a2bfe872e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\2f\2febd0c993e0741fa9bd119683ee8921
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\2f\2febd0c993e0741fa9bd119683ee8921
+    projectPath: Library\metadata\2f\2febd0c993e0741fa9bd119683ee8921
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\30\301fbaa0e62e44fd2a7383bd338a2898
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\30\301fbaa0e62e44fd2a7383bd338a2898
+    projectPath: Library\metadata\30\301fbaa0e62e44fd2a7383bd338a2898
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\32\32beaad92a5e27d428fff16d3891bb25
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\32\32beaad92a5e27d428fff16d3891bb25
+    projectPath: Library\metadata\32\32beaad92a5e27d428fff16d3891bb25
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\33\3339607d3aaa4528bc9ba6ad198ca8f3
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\33\3339607d3aaa4528bc9ba6ad198ca8f3
+    projectPath: Library\metadata\33\3339607d3aaa4528bc9ba6ad198ca8f3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\33\336c8cf8120faaca91c0723e9bd40ea1
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\33\336c8cf8120faaca91c0723e9bd40ea1
+    projectPath: Library\metadata\33\336c8cf8120faaca91c0723e9bd40ea1
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\33\3385f7527e5be4c65b3a5294e8995ff8
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\33\3385f7527e5be4c65b3a5294e8995ff8
+    projectPath: Library\metadata\33\3385f7527e5be4c65b3a5294e8995ff8
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\34\344e30043c0ce48e6b561f4a02ebaad9
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\34\344e30043c0ce48e6b561f4a02ebaad9
+    projectPath: Library\metadata\34\344e30043c0ce48e6b561f4a02ebaad9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\35\35b4e72ca46f44581b85082c4dc21d13
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\35\35b4e72ca46f44581b85082c4dc21d13
+    projectPath: Library\metadata\35\35b4e72ca46f44581b85082c4dc21d13
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d
+    projectPath: Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    projectPath: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3b\3b07d432cba2a4c4f8a2fdea984620b8
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\3b\3b07d432cba2a4c4f8a2fdea984620b8
+    projectPath: Library\metadata\3b\3b07d432cba2a4c4f8a2fdea984620b8
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
+    projectPath: Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3c\3c61c79a991f84470843243e9710743e
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\3c\3c61c79a991f84470843243e9710743e
+    projectPath: Library\metadata\3c\3c61c79a991f84470843243e9710743e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3c\3c8d45ca8c61bc33d0baf623242389e5
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\3c\3c8d45ca8c61bc33d0baf623242389e5
+    projectPath: Library\metadata\3c\3c8d45ca8c61bc33d0baf623242389e5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3c\3cbe74c18d295417f901410ce5e199eb
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\3c\3cbe74c18d295417f901410ce5e199eb
+    projectPath: Library\metadata\3c\3cbe74c18d295417f901410ce5e199eb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3c\3cebe1a96232b44388b30b2f72dde434
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\3c\3cebe1a96232b44388b30b2f72dde434
+    projectPath: Library\metadata\3c\3cebe1a96232b44388b30b2f72dde434
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0
+    projectPath: Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3d\3d7380326a6e14e9688556154528086c
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\3d\3d7380326a6e14e9688556154528086c
+    projectPath: Library\metadata\3d\3d7380326a6e14e9688556154528086c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3d\3dcbbc060dea46168ffc09a580836240
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\3d\3dcbbc060dea46168ffc09a580836240
+    projectPath: Library\metadata\3d\3dcbbc060dea46168ffc09a580836240
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
+    projectPath: Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3e\3eeb634eb82a16a4e9ebf32661078fa1
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\3e\3eeb634eb82a16a4e9ebf32661078fa1
+    projectPath: Library\metadata\3e\3eeb634eb82a16a4e9ebf32661078fa1
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3f\3f2dce55530f54aad372e49cf20b4760
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\3f\3f2dce55530f54aad372e49cf20b4760
+    projectPath: Library\metadata\3f\3f2dce55530f54aad372e49cf20b4760
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3f\3f3e22b18940a4e828a5170574a3617e
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\3f\3f3e22b18940a4e828a5170574a3617e
+    projectPath: Library\metadata\3f\3f3e22b18940a4e828a5170574a3617e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3f\3fd687846ba784d4583c294a60363afa
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\3f\3fd687846ba784d4583c294a60363afa
+    projectPath: Library\metadata\3f\3fd687846ba784d4583c294a60363afa
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\3f\3fdd83b151eb8d25c5e2f82fc39dcb04
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\3f\3fdd83b151eb8d25c5e2f82fc39dcb04
+    projectPath: Library\metadata\3f\3fdd83b151eb8d25c5e2f82fc39dcb04
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\40\40bf3cec17fa0b49fe04443c8332d638
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\40\40bf3cec17fa0b49fe04443c8332d638
+    projectPath: Library\metadata\40\40bf3cec17fa0b49fe04443c8332d638
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\42\42064bc130be4c44b288d249a44b356f
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\42\42064bc130be4c44b288d249a44b356f
+    projectPath: Library\metadata\42\42064bc130be4c44b288d249a44b356f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\42\42e34694fbdc5eede9cb3218ca6cdf5a
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\42\42e34694fbdc5eede9cb3218ca6cdf5a
+    projectPath: Library\metadata\42\42e34694fbdc5eede9cb3218ca6cdf5a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\42\42fe78c8fe682715a2cb531422e6ccb3
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\42\42fe78c8fe682715a2cb531422e6ccb3
+    projectPath: Library\metadata\42\42fe78c8fe682715a2cb531422e6ccb3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\43\43674d438e19b89d7fe6af07234f3252
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\43\43674d438e19b89d7fe6af07234f3252
+    projectPath: Library\metadata\43\43674d438e19b89d7fe6af07234f3252
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\44\44f39a74ca5ee4bf5936b17e901f251c
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\44\44f39a74ca5ee4bf5936b17e901f251c
+    projectPath: Library\metadata\44\44f39a74ca5ee4bf5936b17e901f251c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\45\453f100e6bdae4dfd9e655927819dc85
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\45\453f100e6bdae4dfd9e655927819dc85
+    projectPath: Library\metadata\45\453f100e6bdae4dfd9e655927819dc85
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\46\460636d894925441ba1debe037d2e343
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\46\460636d894925441ba1debe037d2e343
+    projectPath: Library\metadata\46\460636d894925441ba1debe037d2e343
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\46\46098a81a64a45c5b756320e10a22f13
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\46\46098a81a64a45c5b756320e10a22f13
+    projectPath: Library\metadata\46\46098a81a64a45c5b756320e10a22f13
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+    projectPath: Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\47\475843f6508cf8d47a0cce01d88a00b2
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\47\475843f6508cf8d47a0cce01d88a00b2
+    projectPath: Library\metadata\47\475843f6508cf8d47a0cce01d88a00b2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\47\47df14ce4e3c6419ab2ff3080ef897b6
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\47\47df14ce4e3c6419ab2ff3080ef897b6
+    projectPath: Library\metadata\47\47df14ce4e3c6419ab2ff3080ef897b6
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6
+    projectPath: Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\48\48c546f60d623714a9e87e7537f903d2
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\48\48c546f60d623714a9e87e7537f903d2
+    projectPath: Library\metadata\48\48c546f60d623714a9e87e7537f903d2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\49\490fe93dbc954e3ba3651b7f55eaba70
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\49\490fe93dbc954e3ba3651b7f55eaba70
+    projectPath: Library\metadata\49\490fe93dbc954e3ba3651b7f55eaba70
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    projectPath: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\4b\4b518b37798c97b0f860962cbf615533
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\4b\4b518b37798c97b0f860962cbf615533
+    projectPath: Library\metadata\4b\4b518b37798c97b0f860962cbf615533
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\4c\4c66545aacbe8438cb112f023a224de6
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\4c\4c66545aacbe8438cb112f023a224de6
+    projectPath: Library\metadata\4c\4c66545aacbe8438cb112f023a224de6
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\4c\4c6fe94acbb24417c988bab18cbd5209
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\4c\4c6fe94acbb24417c988bab18cbd5209
+    projectPath: Library\metadata\4c\4c6fe94acbb24417c988bab18cbd5209
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    projectPath: Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\4e\4e1b7fd6232d7e540bab0382f131fc38
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\4e\4e1b7fd6232d7e540bab0382f131fc38
+    projectPath: Library\metadata\4e\4e1b7fd6232d7e540bab0382f131fc38
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\4e\4e830e2dbc3315b4b97cd5311a54e4fe
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\4e\4e830e2dbc3315b4b97cd5311a54e4fe
+    projectPath: Library\metadata\4e\4e830e2dbc3315b4b97cd5311a54e4fe
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\4f\4f0f9b9f3ed97ad2b9ba8f1a8e4666c2
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\4f\4f0f9b9f3ed97ad2b9ba8f1a8e4666c2
+    projectPath: Library\metadata\4f\4f0f9b9f3ed97ad2b9ba8f1a8e4666c2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\4f\4f234578336894dc081edf696f2ff5f2
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\4f\4f234578336894dc081edf696f2ff5f2
+    projectPath: Library\metadata\4f\4f234578336894dc081edf696f2ff5f2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+    projectPath: Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\4f\4fc12201ddc4b4d45b9bdecdf7f00ea5
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\4f\4fc12201ddc4b4d45b9bdecdf7f00ea5
+    projectPath: Library\metadata\4f\4fc12201ddc4b4d45b9bdecdf7f00ea5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\50\5075cb5aa3254b099b11b2840d7cd46e
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\50\5075cb5aa3254b099b11b2840d7cd46e
+    projectPath: Library\metadata\50\5075cb5aa3254b099b11b2840d7cd46e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\50\50dd1cf09f7f81243a0499c17ddd834d
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\50\50dd1cf09f7f81243a0499c17ddd834d
+    projectPath: Library\metadata\50\50dd1cf09f7f81243a0499c17ddd834d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\51\510d1d319d2754ea4a47c6dd8c421ea0
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\51\510d1d319d2754ea4a47c6dd8c421ea0
+    projectPath: Library\metadata\51\510d1d319d2754ea4a47c6dd8c421ea0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\53\5347e52e38be748d4b70d2961383b5df
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\53\5347e52e38be748d4b70d2961383b5df
+    projectPath: Library\metadata\53\5347e52e38be748d4b70d2961383b5df
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\53\534a1078c531d36ad6bf763bbe29dbd3
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\53\534a1078c531d36ad6bf763bbe29dbd3
+    projectPath: Library\metadata\53\534a1078c531d36ad6bf763bbe29dbd3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\54\54820846856014161a452f4eb38ab087
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\54\54820846856014161a452f4eb38ab087
+    projectPath: Library\metadata\54\54820846856014161a452f4eb38ab087
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\54\54e5fc61925bc4ca3b2c1e82dfb35eb5
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\54\54e5fc61925bc4ca3b2c1e82dfb35eb5
+    projectPath: Library\metadata\54\54e5fc61925bc4ca3b2c1e82dfb35eb5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\55\5548744c05e401b4691c4839561ea583
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\55\5548744c05e401b4691c4839561ea583
+    projectPath: Library\metadata\55\5548744c05e401b4691c4839561ea583
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\56\561026656a8da5a4fba4c0075c2451a2
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\56\561026656a8da5a4fba4c0075c2451a2
+    projectPath: Library\metadata\56\561026656a8da5a4fba4c0075c2451a2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\59\5941c79cb78c34a0d9c677ece9784f15
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\59\5941c79cb78c34a0d9c677ece9784f15
+    projectPath: Library\metadata\59\5941c79cb78c34a0d9c677ece9784f15
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\5a\5afb9687033af4bca957216add3fe854
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\5a\5afb9687033af4bca957216add3fe854
+    projectPath: Library\metadata\5a\5afb9687033af4bca957216add3fe854
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\5c\5c4f28f6254cd4e9fb5b1d7b51cb348c
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\5c\5c4f28f6254cd4e9fb5b1d7b51cb348c
+    projectPath: Library\metadata\5c\5c4f28f6254cd4e9fb5b1d7b51cb348c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\5e\5e57a6c62c1ec47d0bceb70495845164
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\5e\5e57a6c62c1ec47d0bceb70495845164
+    projectPath: Library\metadata\5e\5e57a6c62c1ec47d0bceb70495845164
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\5e\5e7c9ab97e5884e4eaa5967e9024f39d
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\5e\5e7c9ab97e5884e4eaa5967e9024f39d
+    projectPath: Library\metadata\5e\5e7c9ab97e5884e4eaa5967e9024f39d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\60\6016349461cac9148ae4617637da2c44
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\60\6016349461cac9148ae4617637da2c44
+    projectPath: Library\metadata\60\6016349461cac9148ae4617637da2c44
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\60\6091ad9c317933348867d9a31d4fdd58
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\60\6091ad9c317933348867d9a31d4fdd58
+    projectPath: Library\metadata\60\6091ad9c317933348867d9a31d4fdd58
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\61\61d72cb49da3040d5ade3edfd6eccfc1
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\61\61d72cb49da3040d5ade3edfd6eccfc1
+    projectPath: Library\metadata\61\61d72cb49da3040d5ade3edfd6eccfc1
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\62\62772aad98ed04f0d955b7d20de61f7f
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\62\62772aad98ed04f0d955b7d20de61f7f
+    projectPath: Library\metadata\62\62772aad98ed04f0d955b7d20de61f7f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\62\6277a751c6c9f46359fc7004b3ee12f0
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\62\6277a751c6c9f46359fc7004b3ee12f0
+    projectPath: Library\metadata\62\6277a751c6c9f46359fc7004b3ee12f0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\63\63031ac4293944719946e077c75b255a
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\63\63031ac4293944719946e077c75b255a
+    projectPath: Library\metadata\63\63031ac4293944719946e077c75b255a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\65\650ea1d167b834d0f86d94e1e8c3b80f
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\65\650ea1d167b834d0f86d94e1e8c3b80f
+    projectPath: Library\metadata\65\650ea1d167b834d0f86d94e1e8c3b80f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\65\65264e563a465e14ebac88bf589dceb2
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\65\65264e563a465e14ebac88bf589dceb2
+    projectPath: Library\metadata\65\65264e563a465e14ebac88bf589dceb2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\65\657d7b4ccf8984f4591a57203d271aee
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\65\657d7b4ccf8984f4591a57203d271aee
+    projectPath: Library\metadata\65\657d7b4ccf8984f4591a57203d271aee
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\65\6597c6ea86d36477081342001145d8d9
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\65\6597c6ea86d36477081342001145d8d9
+    projectPath: Library\metadata\65\6597c6ea86d36477081342001145d8d9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\65\65d58d50c3db54f979b1ffae3777d74b
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\65\65d58d50c3db54f979b1ffae3777d74b
+    projectPath: Library\metadata\65\65d58d50c3db54f979b1ffae3777d74b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\66\66281976896b84291a7c933800665eee
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\66\66281976896b84291a7c933800665eee
+    projectPath: Library\metadata\66\66281976896b84291a7c933800665eee
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\66\669717f3193a457b9bad9665ebcae836
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\66\669717f3193a457b9bad9665ebcae836
+    projectPath: Library\metadata\66\669717f3193a457b9bad9665ebcae836
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\66\66c01ccdf0121bb448d22bbaa7caf46d
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\66\66c01ccdf0121bb448d22bbaa7caf46d
+    projectPath: Library\metadata\66\66c01ccdf0121bb448d22bbaa7caf46d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\69\69f78ddba7f3142308e5b0998c570ca8
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\69\69f78ddba7f3142308e5b0998c570ca8
+    projectPath: Library\metadata\69\69f78ddba7f3142308e5b0998c570ca8
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\6a\6a2705af0cf7a418a94cfada8caccae7
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\6a\6a2705af0cf7a418a94cfada8caccae7
+    projectPath: Library\metadata\6a\6a2705af0cf7a418a94cfada8caccae7
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\6a\6a3cb9d5c3d0d8b41b244935f9bfaccb
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\6a\6a3cb9d5c3d0d8b41b244935f9bfaccb
+    projectPath: Library\metadata\6a\6a3cb9d5c3d0d8b41b244935f9bfaccb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\6a\6afb166a156df2d20433d981f4bb2832
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\6a\6afb166a156df2d20433d981f4bb2832
+    projectPath: Library\metadata\6a\6afb166a156df2d20433d981f4bb2832
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\6c\6c75bf80f86d7db45a48b6c759a3cb13
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\6c\6c75bf80f86d7db45a48b6c759a3cb13
+    projectPath: Library\metadata\6c\6c75bf80f86d7db45a48b6c759a3cb13
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\6c\6cb6024c00ef30fe18d314034e1acc02
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\6c\6cb6024c00ef30fe18d314034e1acc02
+    projectPath: Library\metadata\6c\6cb6024c00ef30fe18d314034e1acc02
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\6d\6d56244f8c39a851975d3c0bd432c66f
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\6d\6d56244f8c39a851975d3c0bd432c66f
+    projectPath: Library\metadata\6d\6d56244f8c39a851975d3c0bd432c66f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\6d\6d6f82a762acb4417b895d3babc790f9
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\6d\6d6f82a762acb4417b895d3babc790f9
+    projectPath: Library\metadata\6d\6d6f82a762acb4417b895d3babc790f9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\6d\6dd198cfa64a6df4ea3a9183dda28acc
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\6d\6dd198cfa64a6df4ea3a9183dda28acc
+    projectPath: Library\metadata\6d\6dd198cfa64a6df4ea3a9183dda28acc
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\6e\6e2d432c5ea14e75aa3a79f90f704442
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\6e\6e2d432c5ea14e75aa3a79f90f704442
+    projectPath: Library\metadata\6e\6e2d432c5ea14e75aa3a79f90f704442
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\6e\6e7c8cfeedae74eb3a562055e069e441
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\6e\6e7c8cfeedae74eb3a562055e069e441
+    projectPath: Library\metadata\6e\6e7c8cfeedae74eb3a562055e069e441
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\6f\6fbe662f128ee1d4297c9e6c9f38edbe
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\6f\6fbe662f128ee1d4297c9e6c9f38edbe
+    projectPath: Library\metadata\6f\6fbe662f128ee1d4297c9e6c9f38edbe
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\6f\6fe576b47d8b47688ec5d02bccd15cf9
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\6f\6fe576b47d8b47688ec5d02bccd15cf9
+    projectPath: Library\metadata\6f\6fe576b47d8b47688ec5d02bccd15cf9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\72\72a912a47edea497ba0c5937ae39163d
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\72\72a912a47edea497ba0c5937ae39163d
+    projectPath: Library\metadata\72\72a912a47edea497ba0c5937ae39163d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+    projectPath: Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\75\75938f72739584ed9925bf4ae8989079
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\75\75938f72739584ed9925bf4ae8989079
+    projectPath: Library\metadata\75\75938f72739584ed9925bf4ae8989079
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\75\75a6485a136254e41815c30c0a048968
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\75\75a6485a136254e41815c30c0a048968
+    projectPath: Library\metadata\75\75a6485a136254e41815c30c0a048968
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\76\76078ddafb924ce19edc6034201cb15b
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\76\76078ddafb924ce19edc6034201cb15b
+    projectPath: Library\metadata\76\76078ddafb924ce19edc6034201cb15b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\76\760934a36e5f490db3c9fcaf497625a4
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\76\760934a36e5f490db3c9fcaf497625a4
+    projectPath: Library\metadata\76\760934a36e5f490db3c9fcaf497625a4
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\76\76349cec627454d3a80423a2eeaf0e63
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\76\76349cec627454d3a80423a2eeaf0e63
+    projectPath: Library\metadata\76\76349cec627454d3a80423a2eeaf0e63
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\77\77266cd0cb87047598c012933eed3d57
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\77\77266cd0cb87047598c012933eed3d57
+    projectPath: Library\metadata\77\77266cd0cb87047598c012933eed3d57
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\78\78e267bad6d564d49803ba3e9c13ff2e
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\78\78e267bad6d564d49803ba3e9c13ff2e
+    projectPath: Library\metadata\78\78e267bad6d564d49803ba3e9c13ff2e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec
+    projectPath: Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\79\797cf0c5f1b7e4e1ab17481bd9b698eb
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\79\797cf0c5f1b7e4e1ab17481bd9b698eb
+    projectPath: Library\metadata\79\797cf0c5f1b7e4e1ab17481bd9b698eb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\79\79bab2b76bfbbbb4abdf452a7775a3b8
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\79\79bab2b76bfbbbb4abdf452a7775a3b8
+    projectPath: Library\metadata\79\79bab2b76bfbbbb4abdf452a7775a3b8
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\7a\7a74094b34f74992a5121c0586ccf6ea
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\7a\7a74094b34f74992a5121c0586ccf6ea
+    projectPath: Library\metadata\7a\7a74094b34f74992a5121c0586ccf6ea
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\7b\7b87dac66d6e74d5f848d26f169bbe89
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\7b\7b87dac66d6e74d5f848d26f169bbe89
+    projectPath: Library\metadata\7b\7b87dac66d6e74d5f848d26f169bbe89
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\7c\7c3a5d6e39b874f468b2691537168513
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\7c\7c3a5d6e39b874f468b2691537168513
+    projectPath: Library\metadata\7c\7c3a5d6e39b874f468b2691537168513
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\7c\7c403f6b3529944498d913eafe2bee11
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\7c\7c403f6b3529944498d913eafe2bee11
+    projectPath: Library\metadata\7c\7c403f6b3529944498d913eafe2bee11
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\7c\7c8aa69027f74423f887bb1ca958844f
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\7c\7c8aa69027f74423f887bb1ca958844f
+    projectPath: Library\metadata\7c\7c8aa69027f74423f887bb1ca958844f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\7c\7cd7f3c420f5f4dbe98f47ea77884c6d
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\7c\7cd7f3c420f5f4dbe98f47ea77884c6d
+    projectPath: Library\metadata\7c\7cd7f3c420f5f4dbe98f47ea77884c6d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\7c\7cf71b2c12207a23318ad0bc95eae813
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\7c\7cf71b2c12207a23318ad0bc95eae813
+    projectPath: Library\metadata\7c\7cf71b2c12207a23318ad0bc95eae813
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\7d\7d80354ace7ca4959abbd7c7e4df83bb
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\7d\7d80354ace7ca4959abbd7c7e4df83bb
+    projectPath: Library\metadata\7d\7d80354ace7ca4959abbd7c7e4df83bb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\7d\7da0c11c52b4044de81c175887699282
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\7d\7da0c11c52b4044de81c175887699282
+    projectPath: Library\metadata\7d\7da0c11c52b4044de81c175887699282
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\7e\7ef8348b8ea834d7e1bc214b07f7fb87
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\7e\7ef8348b8ea834d7e1bc214b07f7fb87
+    projectPath: Library\metadata\7e\7ef8348b8ea834d7e1bc214b07f7fb87
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\7f\7fd5e77e7e7ea4eea8198138cd9cc814
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\7f\7fd5e77e7e7ea4eea8198138cd9cc814
+    projectPath: Library\metadata\7f\7fd5e77e7e7ea4eea8198138cd9cc814
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\7f\7ff9a3d3299c352408e210148b482033
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\7f\7ff9a3d3299c352408e210148b482033
+    projectPath: Library\metadata\7f\7ff9a3d3299c352408e210148b482033
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\80\80beef77cb19e713c7c2d481b65ed485
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\80\80beef77cb19e713c7c2d481b65ed485
+    projectPath: Library\metadata\80\80beef77cb19e713c7c2d481b65ed485
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\81\810def08e6eae48f7b5d8c192e48356b
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\81\810def08e6eae48f7b5d8c192e48356b
+    projectPath: Library\metadata\81\810def08e6eae48f7b5d8c192e48356b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\81\81f8cf4a1c4ad49e8a311dfc1998bd07
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\81\81f8cf4a1c4ad49e8a311dfc1998bd07
+    projectPath: Library\metadata\81\81f8cf4a1c4ad49e8a311dfc1998bd07
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\83\8311e0574a8bd42f78de3e17b70f43cf
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\83\8311e0574a8bd42f78de3e17b70f43cf
+    projectPath: Library\metadata\83\8311e0574a8bd42f78de3e17b70f43cf
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\84\8446fa20c6139724b85c4163e39c4324
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\84\8446fa20c6139724b85c4163e39c4324
+    projectPath: Library\metadata\84\8446fa20c6139724b85c4163e39c4324
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\84\84aec3c9054b3402293139f2c0bc1029
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\84\84aec3c9054b3402293139f2c0bc1029
+    projectPath: Library\metadata\84\84aec3c9054b3402293139f2c0bc1029
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\85\85dba6b2d7204a7f9a1f976eb0a6b4d2
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\85\85dba6b2d7204a7f9a1f976eb0a6b4d2
+    projectPath: Library\metadata\85\85dba6b2d7204a7f9a1f976eb0a6b4d2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\86\86c008322e7c647149878156c5b81940
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\86\86c008322e7c647149878156c5b81940
+    projectPath: Library\metadata\86\86c008322e7c647149878156c5b81940
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\86\86c18994495874297b469aaa57ef9b44
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\86\86c18994495874297b469aaa57ef9b44
+    projectPath: Library\metadata\86\86c18994495874297b469aaa57ef9b44
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\86\86c5fa52c74c3a4459047c1ede995e68
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\86\86c5fa52c74c3a4459047c1ede995e68
+    projectPath: Library\metadata\86\86c5fa52c74c3a4459047c1ede995e68
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\87\87738e82a4f047cc947cff8a2ccea594
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\87\87738e82a4f047cc947cff8a2ccea594
+    projectPath: Library\metadata\87\87738e82a4f047cc947cff8a2ccea594
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\87\87d720faa37005c08600090e04d8c739
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\87\87d720faa37005c08600090e04d8c739
+    projectPath: Library\metadata\87\87d720faa37005c08600090e04d8c739
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\88\880f2fc52037c4fe09edb80cfe84ac7c
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\88\880f2fc52037c4fe09edb80cfe84ac7c
+    projectPath: Library\metadata\88\880f2fc52037c4fe09edb80cfe84ac7c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\88\8845c4bee6e11114eaff22790cc19e1c
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\88\8845c4bee6e11114eaff22790cc19e1c
+    projectPath: Library\metadata\88\8845c4bee6e11114eaff22790cc19e1c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\88\884f8f0e4025a420893d3a8d1d3063e1
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\88\884f8f0e4025a420893d3a8d1d3063e1
+    projectPath: Library\metadata\88\884f8f0e4025a420893d3a8d1d3063e1
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\88\88818f6441d82c045a4d50c825ea4048
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\88\88818f6441d82c045a4d50c825ea4048
+    projectPath: Library\metadata\88\88818f6441d82c045a4d50c825ea4048
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\8c\8c25f8b5c9da143328c516248414b95d
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\8c\8c25f8b5c9da143328c516248414b95d
+    projectPath: Library\metadata\8c\8c25f8b5c9da143328c516248414b95d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\8d\8dfb61b1cd7e490c7158b549162bea9f
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\8d\8dfb61b1cd7e490c7158b549162bea9f
+    projectPath: Library\metadata\8d\8dfb61b1cd7e490c7158b549162bea9f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\90\906c12bc9cd95d3963c6d58f62522c78
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\90\906c12bc9cd95d3963c6d58f62522c78
+    projectPath: Library\metadata\90\906c12bc9cd95d3963c6d58f62522c78
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\90\907731821455c4fa989ac14278e02251
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\90\907731821455c4fa989ac14278e02251
+    projectPath: Library\metadata\90\907731821455c4fa989ac14278e02251
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\90\90791303b72ec4ae198f99d637dfdf6c
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\90\90791303b72ec4ae198f99d637dfdf6c
+    projectPath: Library\metadata\90\90791303b72ec4ae198f99d637dfdf6c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\90\90e461c22615fdc4f87c6a0506ec3589
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\90\90e461c22615fdc4f87c6a0506ec3589
+    projectPath: Library\metadata\90\90e461c22615fdc4f87c6a0506ec3589
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\91\91d2a2f5080c8a45a06c07d9bb839120
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\91\91d2a2f5080c8a45a06c07d9bb839120
+    projectPath: Library\metadata\91\91d2a2f5080c8a45a06c07d9bb839120
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\91\91dc787b8b5a37aa7b04fc70394d92b8
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\91\91dc787b8b5a37aa7b04fc70394d92b8
+    projectPath: Library\metadata\91\91dc787b8b5a37aa7b04fc70394d92b8
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\92\92a378669877c05c6071d0fed687bb95
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\92\92a378669877c05c6071d0fed687bb95
+    projectPath: Library\metadata\92\92a378669877c05c6071d0fed687bb95
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\93\93c1370867fcb45079592da39e0994c5
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\93\93c1370867fcb45079592da39e0994c5
+    projectPath: Library\metadata\93\93c1370867fcb45079592da39e0994c5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\95\953fab16d15d5885b3600fcd6388b2ad
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\95\953fab16d15d5885b3600fcd6388b2ad
+    projectPath: Library\metadata\95\953fab16d15d5885b3600fcd6388b2ad
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\96\964bd17caf48d364cb44cefffd275886
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\96\964bd17caf48d364cb44cefffd275886
+    projectPath: Library\metadata\96\964bd17caf48d364cb44cefffd275886
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\96\96d14b71b907bb52333b2886e665aba6
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\96\96d14b71b907bb52333b2886e665aba6
+    projectPath: Library\metadata\96\96d14b71b907bb52333b2886e665aba6
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\98\983d491088dbb4db8b83c926939a08c5
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\98\983d491088dbb4db8b83c926939a08c5
+    projectPath: Library\metadata\98\983d491088dbb4db8b83c926939a08c5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\99\9951f1395fc39034fbc29e96627df89b
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\99\9951f1395fc39034fbc29e96627df89b
+    projectPath: Library\metadata\99\9951f1395fc39034fbc29e96627df89b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\99\99ddb49592ff84811804420a1910cb89
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\99\99ddb49592ff84811804420a1910cb89
+    projectPath: Library\metadata\99\99ddb49592ff84811804420a1910cb89
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\9a\9a2c874c382e2419184b302497279dd9
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\9a\9a2c874c382e2419184b302497279dd9
+    projectPath: Library\metadata\9a\9a2c874c382e2419184b302497279dd9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\9c\9c6d4b9902ecb64cd6194f08bb4a1d97
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\9c\9c6d4b9902ecb64cd6194f08bb4a1d97
+    projectPath: Library\metadata\9c\9c6d4b9902ecb64cd6194f08bb4a1d97
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9
+    projectPath: Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\9e\9ec5dc72125424af38a9bfaca532acc8
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\9e\9ec5dc72125424af38a9bfaca532acc8
+    projectPath: Library\metadata\9e\9ec5dc72125424af38a9bfaca532acc8
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\9f\9f091dea68a1452cb6c04a6dfa73d5f5
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\9f\9f091dea68a1452cb6c04a6dfa73d5f5
+    projectPath: Library\metadata\9f\9f091dea68a1452cb6c04a6dfa73d5f5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\9f\9f17a0688211d476f8d8c9742bb9f992
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\9f\9f17a0688211d476f8d8c9742bb9f992
+    projectPath: Library\metadata\9f\9f17a0688211d476f8d8c9742bb9f992
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\a1\a1b06157fdd524f669d8355fbadd0889
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\a1\a1b06157fdd524f669d8355fbadd0889
+    projectPath: Library\metadata\a1\a1b06157fdd524f669d8355fbadd0889
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\a2\a2d2e078736b94e5680096c99899b773
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\a2\a2d2e078736b94e5680096c99899b773
+    projectPath: Library\metadata\a2\a2d2e078736b94e5680096c99899b773
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\a3\a342381d77833427fa10621e38fbae10
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\a3\a342381d77833427fa10621e38fbae10
+    projectPath: Library\metadata\a3\a342381d77833427fa10621e38fbae10
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\a3\a372ce265d14840389df4dcbfb6a4570
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\a3\a372ce265d14840389df4dcbfb6a4570
+    projectPath: Library\metadata\a3\a372ce265d14840389df4dcbfb6a4570
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\a3\a37e18887fa954edf92bc36bc353b879
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\a3\a37e18887fa954edf92bc36bc353b879
+    projectPath: Library\metadata\a3\a37e18887fa954edf92bc36bc353b879
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\a5\a5edd19845e0e426eb775477a7988a4a
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\a5\a5edd19845e0e426eb775477a7988a4a
+    projectPath: Library\metadata\a5\a5edd19845e0e426eb775477a7988a4a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc
+    projectPath: Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\a7\a745f806f5eb96e438d72c1226241d0e
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\a7\a745f806f5eb96e438d72c1226241d0e
+    projectPath: Library\metadata\a7\a745f806f5eb96e438d72c1226241d0e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\a7\a7b89acd74e047778b42209a7a733d39
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\a7\a7b89acd74e047778b42209a7a733d39
+    projectPath: Library\metadata\a7\a7b89acd74e047778b42209a7a733d39
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+    projectPath: Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\a9\a98bc92072da64d49a393088e55ce2a0
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\a9\a98bc92072da64d49a393088e55ce2a0
+    projectPath: Library\metadata\a9\a98bc92072da64d49a393088e55ce2a0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\a9\a9f829c375111ae42927e8d7e0159071
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\a9\a9f829c375111ae42927e8d7e0159071
+    projectPath: Library\metadata\a9\a9f829c375111ae42927e8d7e0159071
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ab\ab866bd39382069418f5c179c1e1ab3e
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ab\ab866bd39382069418f5c179c1e1ab3e
+    projectPath: Library\metadata\ab\ab866bd39382069418f5c179c1e1ab3e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ab\abdc053b8e3644f299aedc641d609a84
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ab\abdc053b8e3644f299aedc641d609a84
+    projectPath: Library\metadata\ab\abdc053b8e3644f299aedc641d609a84
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\af\af77d853213b64700887ae98f21e4d72
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\af\af77d853213b64700887ae98f21e4d72
+    projectPath: Library\metadata\af\af77d853213b64700887ae98f21e4d72
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\af\afd7697844f4142f9aa91471c1fba506
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\af\afd7697844f4142f9aa91471c1fba506
+    projectPath: Library\metadata\af\afd7697844f4142f9aa91471c1fba506
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\b0\b0c12f0066bd444a1b3a900679169f30
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\b0\b0c12f0066bd444a1b3a900679169f30
+    projectPath: Library\metadata\b0\b0c12f0066bd444a1b3a900679169f30
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\b1\b128b823eab4aab4ab7d622deda05801
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\b1\b128b823eab4aab4ab7d622deda05801
+    projectPath: Library\metadata\b1\b128b823eab4aab4ab7d622deda05801
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\b1\b1fd7fa253e7dab4585a26a7424d0373
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\b1\b1fd7fa253e7dab4585a26a7424d0373
+    projectPath: Library\metadata\b1\b1fd7fa253e7dab4585a26a7424d0373
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\b2\b274f3d1ea05d4bd8a13f4556f7797d2
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\b2\b274f3d1ea05d4bd8a13f4556f7797d2
+    projectPath: Library\metadata\b2\b274f3d1ea05d4bd8a13f4556f7797d2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\b3\b32abd1c9d73a4cce8389f084ac12b11
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\b3\b32abd1c9d73a4cce8389f084ac12b11
+    projectPath: Library\metadata\b3\b32abd1c9d73a4cce8389f084ac12b11
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029
+    projectPath: Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\b5\b5da970776034f77a070d99423d68791
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\b5\b5da970776034f77a070d99423d68791
+    projectPath: Library\metadata\b5\b5da970776034f77a070d99423d68791
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\b5\b5f4343795a0e4626ac1fe4a9e6fce59
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\b5\b5f4343795a0e4626ac1fe4a9e6fce59
+    projectPath: Library\metadata\b5\b5f4343795a0e4626ac1fe4a9e6fce59
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\b7\b76b590dea27aba43bdf287df64ed029
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\b7\b76b590dea27aba43bdf287df64ed029
+    projectPath: Library\metadata\b7\b76b590dea27aba43bdf287df64ed029
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\b7\b7e8a8fb69eacee439474914ea54bf9b
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\b7\b7e8a8fb69eacee439474914ea54bf9b
+    projectPath: Library\metadata\b7\b7e8a8fb69eacee439474914ea54bf9b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\b8\b83f06ac0c0696e9563230865ca72b81
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\b8\b83f06ac0c0696e9563230865ca72b81
+    projectPath: Library\metadata\b8\b83f06ac0c0696e9563230865ca72b81
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+    projectPath: Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
+    projectPath: Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\b9\b9f324f08cd904ec986357c98dd9eaa6
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\b9\b9f324f08cd904ec986357c98dd9eaa6
+    projectPath: Library\metadata\b9\b9f324f08cd904ec986357c98dd9eaa6
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ba\bac185a28e198c1419b649ca946942ea
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ba\bac185a28e198c1419b649ca946942ea
+    projectPath: Library\metadata\ba\bac185a28e198c1419b649ca946942ea
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\bb\bb15697a279504a90b825c44dc355047
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\bb\bb15697a279504a90b825c44dc355047
+    projectPath: Library\metadata\bb\bb15697a279504a90b825c44dc355047
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\bb\bb7f38037bf5d3d4e949848c774d38fa
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\bb\bb7f38037bf5d3d4e949848c774d38fa
+    projectPath: Library\metadata\bb\bb7f38037bf5d3d4e949848c774d38fa
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\bc\bc40758aa91ffe94b8e537acfd034fea
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\bc\bc40758aa91ffe94b8e537acfd034fea
+    projectPath: Library\metadata\bc\bc40758aa91ffe94b8e537acfd034fea
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\bc\bcd27da1c9ae94d2cafe094482a20792
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\bc\bcd27da1c9ae94d2cafe094482a20792
+    projectPath: Library\metadata\bc\bcd27da1c9ae94d2cafe094482a20792
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\bf\bf23a69dbeee77840a858085a9c4c634
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\bf\bf23a69dbeee77840a858085a9c4c634
+    projectPath: Library\metadata\bf\bf23a69dbeee77840a858085a9c4c634
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\bf\bf42d5dcfcb8384408538ac6618bf2f4
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\bf\bf42d5dcfcb8384408538ac6618bf2f4
+    projectPath: Library\metadata\bf\bf42d5dcfcb8384408538ac6618bf2f4
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\bf\bfd567a3d1631a761bca9e99fa53d86d
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\bf\bfd567a3d1631a761bca9e99fa53d86d
+    projectPath: Library\metadata\bf\bfd567a3d1631a761bca9e99fa53d86d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\bf\bff7698ee13b983002e6305e79bce148
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\bf\bff7698ee13b983002e6305e79bce148
+    projectPath: Library\metadata\bf\bff7698ee13b983002e6305e79bce148
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\c4\c4c68c906ab1d428fbdcd9e1316e6600
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\c4\c4c68c906ab1d428fbdcd9e1316e6600
+    projectPath: Library\metadata\c4\c4c68c906ab1d428fbdcd9e1316e6600
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\c5\c5a6c23378e8a09409a30f2a4fb8549c
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\c5\c5a6c23378e8a09409a30f2a4fb8549c
+    projectPath: Library\metadata\c5\c5a6c23378e8a09409a30f2a4fb8549c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482
+    projectPath: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\c6\c68ba5b432ef64e67ae0bf74960908a8
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\c6\c68ba5b432ef64e67ae0bf74960908a8
+    projectPath: Library\metadata\c6\c68ba5b432ef64e67ae0bf74960908a8
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\c6\c6a6dabee566caeec91e805579fd3a3b
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\c6\c6a6dabee566caeec91e805579fd3a3b
+    projectPath: Library\metadata\c6\c6a6dabee566caeec91e805579fd3a3b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\c7\c74ca176c244e4e14bc330098d620f13
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\c7\c74ca176c244e4e14bc330098d620f13
+    projectPath: Library\metadata\c7\c74ca176c244e4e14bc330098d620f13
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\c7\c7559cdbc33f04af1a5a42d2aa5b40a5
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\c7\c7559cdbc33f04af1a5a42d2aa5b40a5
+    projectPath: Library\metadata\c7\c7559cdbc33f04af1a5a42d2aa5b40a5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+    projectPath: Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\c9\c91eb02644949694ebf7e6dcf88b0132
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\c9\c91eb02644949694ebf7e6dcf88b0132
+    projectPath: Library\metadata\c9\c91eb02644949694ebf7e6dcf88b0132
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117
+    projectPath: Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ca\ca53a6f1e29564d528bb56b92e0f181c
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ca\ca53a6f1e29564d528bb56b92e0f181c
+    projectPath: Library\metadata\ca\ca53a6f1e29564d528bb56b92e0f181c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ca\ca647023177454af088b4c45041891cb
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ca\ca647023177454af088b4c45041891cb
+    projectPath: Library\metadata\ca\ca647023177454af088b4c45041891cb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\ca\caffda3b538cb49aea73798b4fc500b1
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ca\caffda3b538cb49aea73798b4fc500b1
+    projectPath: Library\metadata\ca\caffda3b538cb49aea73798b4fc500b1
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\cc\cc1b50b5501f748da8bec762294d9136
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\cc\cc1b50b5501f748da8bec762294d9136
+    projectPath: Library\metadata\cc\cc1b50b5501f748da8bec762294d9136
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892
+    projectPath: Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ce\cec097a4a97a8ce92df9c84674392073
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ce\cec097a4a97a8ce92df9c84674392073
+    projectPath: Library\metadata\ce\cec097a4a97a8ce92df9c84674392073
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\d0\d028fbbad11524d13a069f495ddcf01c
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d0\d028fbbad11524d13a069f495ddcf01c
+    projectPath: Library\metadata\d0\d028fbbad11524d13a069f495ddcf01c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\d0\d0e3ad91972c66f5238f5b9b7d5ae58a
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d0\d0e3ad91972c66f5238f5b9b7d5ae58a
+    projectPath: Library\metadata\d0\d0e3ad91972c66f5238f5b9b7d5ae58a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\d1\d1c1a2d988f5148fd9ab17b2460d271e
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d1\d1c1a2d988f5148fd9ab17b2460d271e
+    projectPath: Library\metadata\d1\d1c1a2d988f5148fd9ab17b2460d271e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\d2\d279247cc6197dd42bfc17aea841f6ab
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d2\d279247cc6197dd42bfc17aea841f6ab
+    projectPath: Library\metadata\d2\d279247cc6197dd42bfc17aea841f6ab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+    projectPath: Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\d3\d3cbe921f7b3d9a3257e7c61a5761796
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d3\d3cbe921f7b3d9a3257e7c61a5761796
+    projectPath: Library\metadata\d3\d3cbe921f7b3d9a3257e7c61a5761796
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\d5\d5a61f8cc87394b28aec6b88b4083217
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d5\d5a61f8cc87394b28aec6b88b4083217
+    projectPath: Library\metadata\d5\d5a61f8cc87394b28aec6b88b4083217
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\d5\d5d8461883c694c9189b74d5ab60c3a5
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d5\d5d8461883c694c9189b74d5ab60c3a5
+    projectPath: Library\metadata\d5\d5d8461883c694c9189b74d5ab60c3a5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e
+    projectPath: Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\d6\d67361a21907a4524b851a0b4ba35b83
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d6\d67361a21907a4524b851a0b4ba35b83
+    projectPath: Library\metadata\d6\d67361a21907a4524b851a0b4ba35b83
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\d7\d72e6637900cc4ff1849deedb971734b
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d7\d72e6637900cc4ff1849deedb971734b
+    projectPath: Library\metadata\d7\d72e6637900cc4ff1849deedb971734b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\d7\d7ce57fa9d74f33bbea3468f0464cb61
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d7\d7ce57fa9d74f33bbea3468f0464cb61
+    projectPath: Library\metadata\d7\d7ce57fa9d74f33bbea3468f0464cb61
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\d8\d81fec850b3174dffbef820f3ee6f917
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d8\d81fec850b3174dffbef820f3ee6f917
+    projectPath: Library\metadata\d8\d81fec850b3174dffbef820f3ee6f917
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\d8\d85e5eeaf8f135aeaaebdc8aa3cff6c3
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d8\d85e5eeaf8f135aeaaebdc8aa3cff6c3
+    projectPath: Library\metadata\d8\d85e5eeaf8f135aeaaebdc8aa3cff6c3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\d9\d926605eb3ce8dc40a36f3a625525358
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d9\d926605eb3ce8dc40a36f3a625525358
+    projectPath: Library\metadata\d9\d926605eb3ce8dc40a36f3a625525358
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\d9\d929147d9f78c487397abb40f2c257b0
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\d9\d929147d9f78c487397abb40f2c257b0
+    projectPath: Library\metadata\d9\d929147d9f78c487397abb40f2c257b0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\da\da0b41deddf0a4414b09681018c171f1
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\da\da0b41deddf0a4414b09681018c171f1
+    projectPath: Library\metadata\da\da0b41deddf0a4414b09681018c171f1
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\db\db8aaff416254941ad06a59da318af92
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\db\db8aaff416254941ad06a59da318af92
+    projectPath: Library\metadata\db\db8aaff416254941ad06a59da318af92
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\dc\dce91326f102345f3ba2f0987c0679c2
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\dc\dce91326f102345f3ba2f0987c0679c2
+    projectPath: Library\metadata\dc\dce91326f102345f3ba2f0987c0679c2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\dc\dced8f6ea9f964e8e8e61574ea889d21
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\dc\dced8f6ea9f964e8e8e61574ea889d21
+    projectPath: Library\metadata\dc\dced8f6ea9f964e8e8e61574ea889d21
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\e0\e0ad39eda17fee14cb7843d797d9013e
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\e0\e0ad39eda17fee14cb7843d797d9013e
+    projectPath: Library\metadata\e0\e0ad39eda17fee14cb7843d797d9013e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\e1\e136f47261aee45bf94ce5a1dd0a63f8
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\e1\e136f47261aee45bf94ce5a1dd0a63f8
+    projectPath: Library\metadata\e1\e136f47261aee45bf94ce5a1dd0a63f8
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\e1\e1ef8466c8fd01a549f10baa4d51fa17
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\e1\e1ef8466c8fd01a549f10baa4d51fa17
+    projectPath: Library\metadata\e1\e1ef8466c8fd01a549f10baa4d51fa17
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\e4\e426a33061f184a9785cd5d82f9fb486
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\e4\e426a33061f184a9785cd5d82f9fb486
+    projectPath: Library\metadata\e4\e426a33061f184a9785cd5d82f9fb486
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\e4\e448ad9b56fca5f211c11215b77ca999
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\e4\e448ad9b56fca5f211c11215b77ca999
+    projectPath: Library\metadata\e4\e448ad9b56fca5f211c11215b77ca999
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\e4\e45f79867376940b7ba31502238d8efa
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\e4\e45f79867376940b7ba31502238d8efa
+    projectPath: Library\metadata\e4\e45f79867376940b7ba31502238d8efa
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    projectPath: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\e5\e53bc96d2d054b8cbc811f0d73e761eb
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\e5\e53bc96d2d054b8cbc811f0d73e761eb
+    projectPath: Library\metadata\e5\e53bc96d2d054b8cbc811f0d73e761eb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\e5\e584f4a7cad1e45b7b74a3d434c813b5
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\e5\e584f4a7cad1e45b7b74a3d434c813b5
+    projectPath: Library\metadata\e5\e584f4a7cad1e45b7b74a3d434c813b5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\e6\e670d1d1f84ad7d43965262741bb6f3b
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\e6\e670d1d1f84ad7d43965262741bb6f3b
+    projectPath: Library\metadata\e6\e670d1d1f84ad7d43965262741bb6f3b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\e6\e68b19693f02349c584a4624d3ca88ce
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\e6\e68b19693f02349c584a4624d3ca88ce
+    projectPath: Library\metadata\e6\e68b19693f02349c584a4624d3ca88ce
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\e6\e6925bb38494e6a43ba0921e65e424fe
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\e6\e6925bb38494e6a43ba0921e65e424fe
+    projectPath: Library\metadata\e6\e6925bb38494e6a43ba0921e65e424fe
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\e8\e848d199350e2654093cc6d66b15bf89
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\e8\e848d199350e2654093cc6d66b15bf89
+    projectPath: Library\metadata\e8\e848d199350e2654093cc6d66b15bf89
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\e8\e8c344017d77f24479cd61fc2a2db7c6
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\e8\e8c344017d77f24479cd61fc2a2db7c6
+    projectPath: Library\metadata\e8\e8c344017d77f24479cd61fc2a2db7c6
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\e9\e9635cdae52cd4035aced24955775a4b
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\e9\e9635cdae52cd4035aced24955775a4b
+    projectPath: Library\metadata\e9\e9635cdae52cd4035aced24955775a4b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\e9\e9df95f53f1c1d0c9199e235d6c42b50
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\e9\e9df95f53f1c1d0c9199e235d6c42b50
+    projectPath: Library\metadata\e9\e9df95f53f1c1d0c9199e235d6c42b50
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ea\ea3954117a206204eb52f3fa6e8fec0b
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ea\ea3954117a206204eb52f3fa6e8fec0b
+    projectPath: Library\metadata\ea\ea3954117a206204eb52f3fa6e8fec0b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    projectPath: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\eb\eb57c645f104e184aa65b824db15e1f9
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\eb\eb57c645f104e184aa65b824db15e1f9
+    projectPath: Library\metadata\eb\eb57c645f104e184aa65b824db15e1f9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ec\ec02776fe29df900b897106d61977735
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ec\ec02776fe29df900b897106d61977735
+    projectPath: Library\metadata\ec\ec02776fe29df900b897106d61977735
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\ed\ed324159e95b04533968db171d71aac6
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ed\ed324159e95b04533968db171d71aac6
+    projectPath: Library\metadata\ed\ed324159e95b04533968db171d71aac6
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    projectPath: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ed\ed9cba3a539d5c748b9c67e76aafe1a9
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ed\ed9cba3a539d5c748b9c67e76aafe1a9
+    projectPath: Library\metadata\ed\ed9cba3a539d5c748b9c67e76aafe1a9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ee\eeed6954b3c264ca0b28a92aa6289bf0
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ee\eeed6954b3c264ca0b28a92aa6289bf0
+    projectPath: Library\metadata\ee\eeed6954b3c264ca0b28a92aa6289bf0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ef\ef5a2781610c4f12a79939f717f789cf
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ef\ef5a2781610c4f12a79939f717f789cf
+    projectPath: Library\metadata\ef\ef5a2781610c4f12a79939f717f789cf
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ef\ef5f5ff48b2d249029c8569481615c69
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ef\ef5f5ff48b2d249029c8569481615c69
+    projectPath: Library\metadata\ef\ef5f5ff48b2d249029c8569481615c69
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ef\ef8bea33e08cb1346bf4814ef69f5476
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\ef\ef8bea33e08cb1346bf4814ef69f5476
+    projectPath: Library\metadata\ef\ef8bea33e08cb1346bf4814ef69f5476
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f0\f0f13f2ab3d6d13cfc6e4656824bfca8
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f0\f0f13f2ab3d6d13cfc6e4656824bfca8
+    projectPath: Library\metadata\f0\f0f13f2ab3d6d13cfc6e4656824bfca8
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f1\f1045c695c5bf4fb7b8509687bc60fc0
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f1\f1045c695c5bf4fb7b8509687bc60fc0
+    projectPath: Library\metadata\f1\f1045c695c5bf4fb7b8509687bc60fc0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f1\f1687bb24464840ae9e1d253685ae0f6
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f1\f1687bb24464840ae9e1d253685ae0f6
+    projectPath: Library\metadata\f1\f1687bb24464840ae9e1d253685ae0f6
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f1\f1a0b1323ab8e6e199bc0be628da7457
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f1\f1a0b1323ab8e6e199bc0be628da7457
+    projectPath: Library\metadata\f1\f1a0b1323ab8e6e199bc0be628da7457
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f2\f28fcced5af094cf78eb4e1109a71981
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f2\f28fcced5af094cf78eb4e1109a71981
+    projectPath: Library\metadata\f2\f28fcced5af094cf78eb4e1109a71981
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f2\f29920a5b65ecea4fa041781cba0fafd
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f2\f29920a5b65ecea4fa041781cba0fafd
+    projectPath: Library\metadata\f2\f29920a5b65ecea4fa041781cba0fafd
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f4\f41a78e8ba860d3469326e5efca9e1d3
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f4\f41a78e8ba860d3469326e5efca9e1d3
+    projectPath: Library\metadata\f4\f41a78e8ba860d3469326e5efca9e1d3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f4\f499e12eaeb145bf9022f581c0b7fa5b
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f4\f499e12eaeb145bf9022f581c0b7fa5b
+    projectPath: Library\metadata\f4\f499e12eaeb145bf9022f581c0b7fa5b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f4\f4da9cbb408be44968e85ee20767deef
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f4\f4da9cbb408be44968e85ee20767deef
+    projectPath: Library\metadata\f4\f4da9cbb408be44968e85ee20767deef
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f5\f50285d829f851b4fa8997e4290086cb
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f5\f50285d829f851b4fa8997e4290086cb
+    projectPath: Library\metadata\f5\f50285d829f851b4fa8997e4290086cb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f6\f68d88b9933cd4204925b22192bf15b4
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f6\f68d88b9933cd4204925b22192bf15b4
+    projectPath: Library\metadata\f6\f68d88b9933cd4204925b22192bf15b4
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f7\f7a8357347c80dc69c08d0b1a05e2122
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f7\f7a8357347c80dc69c08d0b1a05e2122
+    projectPath: Library\metadata\f7\f7a8357347c80dc69c08d0b1a05e2122
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f7\f7b8813687894ccf9d4e8261242250a0
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f7\f7b8813687894ccf9d4e8261242250a0
+    projectPath: Library\metadata\f7\f7b8813687894ccf9d4e8261242250a0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f7\f7e799286d3fd584d9c132dcaa89bda3
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f7\f7e799286d3fd584d9c132dcaa89bda3
+    projectPath: Library\metadata\f7\f7e799286d3fd584d9c132dcaa89bda3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f8\f851ca8f9604f442aafccf60a6713ce9
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f8\f851ca8f9604f442aafccf60a6713ce9
+    projectPath: Library\metadata\f8\f851ca8f9604f442aafccf60a6713ce9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    projectPath: Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\fa\fa27413e9edb06a6058d6c894eca0338
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\fa\fa27413e9edb06a6058d6c894eca0338
+    projectPath: Library\metadata\fa\fa27413e9edb06a6058d6c894eca0338
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\fb\fbe73fb681403b6f4446fc227b7fc11e
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\fb\fbe73fb681403b6f4446fc227b7fc11e
+    projectPath: Library\metadata\fb\fbe73fb681403b6f4446fc227b7fc11e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\fc\fc955e6071a369f9c084fc984f647515
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\fc\fc955e6071a369f9c084fc984f647515
+    projectPath: Library\metadata\fc\fc955e6071a369f9c084fc984f647515
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\fc\fccc5daff6e0eb256a4a5e34a1bd65fa
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\fc\fccc5daff6e0eb256a4a5e34a1bd65fa
+    projectPath: Library\metadata\fc\fccc5daff6e0eb256a4a5e34a1bd65fa
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\fd\fd382b8abbd6145c29e32af0e2a26d88
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\fd\fd382b8abbd6145c29e32af0e2a26d88
+    projectPath: Library\metadata\fd\fd382b8abbd6145c29e32af0e2a26d88
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\fd\fda4f1d896817ce4e8d1b21373a3f01b
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\fd\fda4f1d896817ce4e8d1b21373a3f01b
+    projectPath: Library\metadata\fd\fda4f1d896817ce4e8d1b21373a3f01b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\fe\fe04affeda7118eebbff468c4f0be14a
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\fe\fe04affeda7118eebbff468c4f0be14a
+    projectPath: Library\metadata\fe\fe04affeda7118eebbff468c4f0be14a
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\fe\fe684bbd80eab45778b9eb316893ff7c
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\fe\fe684bbd80eab45778b9eb316893ff7c
+    projectPath: Library\metadata\fe\fe684bbd80eab45778b9eb316893ff7c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\fe\fea24dc53b50441a9b2a8f9473fede33
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\fe\fea24dc53b50441a9b2a8f9473fede33
+    projectPath: Library\metadata\fe\fea24dc53b50441a9b2a8f9473fede33
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\metadata\fe\fec197bad419341558f81f2ec8a05e18
+    projectPath: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\ScriptAssemblies\UnityEditor.StandardEvents.dll.mdb
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll.mdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.StandardEvents.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\ScriptMapper
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c743ae24ee231884887054d20ccdd0ae\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c743ae24ee231884887054d20ccdd0ae\pathname
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c743ae24ee231884887054d20ccdd0ae\pathname
     projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c743ae24ee231884887054d20ccdd0ae\pathname
     originalPath: 
     status: 5
     staged: 0
   - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\cad92998c5182496e8b989b406d9f156\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\cad92998c5182496e8b989b406d9f156\asset.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\cad92998c5182496e8b989b406d9f156\asset.meta
     projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\cad92998c5182496e8b989b406d9f156\asset.meta
     originalPath: 
     status: 5
     staged: 0
   - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\cad92998c5182496e8b989b406d9f156\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\cad92998c5182496e8b989b406d9f156\pathname
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\cad92998c5182496e8b989b406d9f156\pathname
     projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\cad92998c5182496e8b989b406d9f156\pathname
     originalPath: 
     status: 5
     staged: 0
   - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d516f2a1bec6a9645a084ef8c9237132\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d516f2a1bec6a9645a084ef8c9237132\asset
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d516f2a1bec6a9645a084ef8c9237132\asset
     projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d516f2a1bec6a9645a084ef8c9237132\asset
     originalPath: 
     status: 5
     staged: 0
   - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d516f2a1bec6a9645a084ef8c9237132\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d516f2a1bec6a9645a084ef8c9237132\asset.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d516f2a1bec6a9645a084ef8c9237132\asset.meta
     projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d516f2a1bec6a9645a084ef8c9237132\asset.meta
     originalPath: 
     status: 5
     staged: 0
   - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d516f2a1bec6a9645a084ef8c9237132\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d516f2a1bec6a9645a084ef8c9237132\pathname
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d516f2a1bec6a9645a084ef8c9237132\pathname
     projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d516f2a1bec6a9645a084ef8c9237132\pathname
     originalPath: 
     status: 5
     staged: 0
   - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d601ecb6855bb432bae2aa49d8fd82e8\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d601ecb6855bb432bae2aa49d8fd82e8\asset
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d601ecb6855bb432bae2aa49d8fd82e8\asset
     projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d601ecb6855bb432bae2aa49d8fd82e8\asset
     originalPath: 
     status: 5
     staged: 0
   - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
     projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
     originalPath: 
     status: 5
     staged: 0
   - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d601ecb6855bb432bae2aa49d8fd82e8\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d601ecb6855bb432bae2aa49d8fd82e8\pathname
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d601ecb6855bb432bae2aa49d8fd82e8\pathname
     projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\d601ecb6855bb432bae2aa49d8fd82e8\pathname
     originalPath: 
     status: 5
     staged: 0
   - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ddb8611e748af425a82a497ac5a98c0c\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ddb8611e748af425a82a497ac5a98c0c\asset
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ddb8611e748af425a82a497ac5a98c0c\asset
     projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ddb8611e748af425a82a497ac5a98c0c\asset
     originalPath: 
     status: 5
     staged: 0
   - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ddb8611e748af425a82a497ac5a98c0c\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ddb8611e748af425a82a497ac5a98c0c\asset.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ddb8611e748af425a82a497ac5a98c0c\asset.meta
     projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ddb8611e748af425a82a497ac5a98c0c\asset.meta
     originalPath: 
     status: 5
     staged: 0
   - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ddb8611e748af425a82a497ac5a98c0c\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ddb8611e748af425a82a497ac5a98c0c\pathname
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ddb8611e748af425a82a497ac5a98c0c\pathname
     projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ddb8611e748af425a82a497ac5a98c0c\pathname
     originalPath: 
     status: 5
     staged: 0
   - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ecfb28d906a32914d956497c8d3b3395\asset
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ecfb28d906a32914d956497c8d3b3395\asset
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ecfb28d906a32914d956497c8d3b3395\asset
     projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ecfb28d906a32914d956497c8d3b3395\asset
     originalPath: 
     status: 5
     staged: 0
   - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ecfb28d906a32914d956497c8d3b3395\asset.meta
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ecfb28d906a32914d956497c8d3b3395\asset.meta
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ecfb28d906a32914d956497c8d3b3395\asset.meta
     projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ecfb28d906a32914d956497c8d3b3395\asset.meta
     originalPath: 
     status: 5
     staged: 0
   - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ecfb28d906a32914d956497c8d3b3395\pathname
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ecfb28d906a32914d956497c8d3b3395\pathname
+    fullPath: C:\Barbesz\game\car git\theGameJam-master\CarP\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ecfb28d906a32914d956497c8d3b3395\pathname
     projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\ecfb28d906a32914d956497c8d3b3395\pathname
     originalPath: 
     status: 5
-    staged: 0
-  - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityLockfile
-    fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
-    originalPath: 
-    status: 1
     staged: 0

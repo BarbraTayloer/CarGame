@@ -12,19 +12,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-06-28T21:18:22.259+03:00
-  initializedAtString: 2018-06-28T21:17:09.807+03:00
+  lastUpdatedAtString: 2018-06-30T18:35:04.728+02:00
+  initializedAtString: 2018-06-30T18:35:04.652+02:00
   localBranches:
+  - name: k
+    tracking: '[None]'
   - name: master
     tracking: origin/master
-  - name: new
-    tracking: '[None]'
   remoteBranches:
   - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/FreeHandz/theGameJam.git
+    url: https://github.com/BarbraTayloer/CarGame.git
     login: 
     user: 
     host: 
@@ -32,19 +32,19 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - k
     - master
-    - new
     values:
-    - name: master
-      remote:
-        name: origin
-        url: https://github.com/FreeHandz/theGameJam.git
-      trackingBranch: master
-    - name: new
+    - name: k
       remote:
         name: 
         url: 
       trackingBranch: 
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/BarbraTayloer/CarGame.git
+      trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
@@ -56,11 +56,11 @@ MonoBehaviour:
       - name: master
         remote:
           name: origin
-          url: https://github.com/FreeHandz/theGameJam.git
+          url: https://github.com/BarbraTayloer/CarGame.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/FreeHandz/theGameJam.git
+      url: https://github.com/BarbraTayloer/CarGame.git
